@@ -1,0 +1,15 @@
+{
+  "port": 25565,
+  "maxPlayers": 8,
+  "GameMode": "creative",
+  "motd": "局域网世界",
+  "AllPlayersCheats": true,
+  "Whitelist": false,
+  "UseUPnP": false,
+  "AllowCommands": true,
+  "OnlineMode": false,
+  "EnableUUIDFixer": true,
+  "ForceOfflinePlayers": [],
+  "PvP": true,
+  "CopyToClipboard": true
+}
